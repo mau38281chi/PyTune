@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "playlists": [
+    {
+      "id": "a07b330119ac4a85a1a1f2e15fc837c1",
+      "name": "Mi musica",
+      "tracks": [
+        {
+          "path": "C:\\Users\\Home\\Downloads\\My Way (2008 Remastered).m4a",
+          "title": "My Way",
+          "artist": "Frank Sinatra",
+          "album": "Nothing But the Best (Remastered)",
+          "duration": 276.25333333333333,
+          "cover_path": "C:\\Users\\Home\\OneDrive\\Escritorio\\Nueva carpeta\\music_player\\data\\covers\\b08d802c1cbb93b2.jpg"
+        }
+      ]
+    },
+    {
+      "id": "23023a97cd4f46d39968f8205a59a8dc",
+      "name": "imagine dragons",
+      "tracks": []
+    }
+  ]
+}
